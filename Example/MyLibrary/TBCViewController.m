@@ -7,7 +7,7 @@
 //
 
 #import "TBCViewController.h"
-#import <MyLibaray.h>
+#import <MyLibrary/MyLibaray.h>
 @interface TBCViewController ()
 
 @end
@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
